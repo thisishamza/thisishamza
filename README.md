@@ -30,10 +30,3 @@ Here are some ideas to get you started:
 
 <br />
 <br />
-
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/thisishamza/thisishamza/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/thisishamza">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/thisishamza/thisishamza/master/assets/codesandbox.svg" />
-</a>
