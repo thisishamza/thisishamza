@@ -2,7 +2,7 @@
 My name is 
 **Muhammad Hamza**.
 
-- 🔭 I’m currently working on Django, Django Rest Framework
+- 🔭 I’m currently working on Django, Django Rest Framework.
 - 🌱 I’m currently learning React.
 
 
