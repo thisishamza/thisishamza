@@ -10,7 +10,7 @@ My name is
 - 🌱 I’m currently learning Angular,React.
 
 
-| <a href="https://github-readme-stats.vercel.app/api?username=thisishamza&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api?username=thisishamza&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Hamza's github stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=thisishamza&layout=compact&theme=buefy&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisishamza&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github-readme-stats.vercel.app/api?username=thisishamza&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true"><img align="center" src="https://github-readme-stats.vercel.app/api?username=thisishamza&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" alt="Hamza's github stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=thisishamza&layout=compact&theme=buefy&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisishamza&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <br />
