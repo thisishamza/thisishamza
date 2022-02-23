@@ -12,7 +12,7 @@ My name is
 ## Stats 📈
 <p align="center">
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=thisishamza&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&locale=en&layout=compact&hide_border=true" alt="astrodevil" /> 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=thisishamza&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&locale=en&hide_border=true" alt="astrodevil" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=thisishamza&show_icons=true&include_all_commits=true&theme=dracula&title_color=ff8000&text_color=ffffff&locale=en&hide_border=true" alt="astrodevil" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=thisishamza&theme=highcontrast&hide_border=true" alt="astrodevil" />
 </p>
 
