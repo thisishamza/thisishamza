@@ -11,6 +11,6 @@ My name is
 
 ## Stats 📈
 <p align="center">
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=thisishamza" alt="Muhammad Hamza" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=thisishamza&theme=highcontrast&hide_border=true&mode=weekly" alt="GitHub Streak" />
 </p>
 <br />
